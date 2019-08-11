@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"To setup "},{"text":"[Better Composters]","color":"aqua"},{"text":" for\na new world, click "},{"text":"[here]","color":"green","clickEvent":{"action":"run_command","value":"/function bc:setup"}}]
